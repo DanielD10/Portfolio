@@ -1,4 +1,4 @@
-z# Unit 16 Project 2 Homework: Professional Materials
+# Unit 16 Project 2 Homework: Professional Materials
 
 Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
 
