@@ -29,6 +29,8 @@ If you are opting out of career services, this is *still a required assignment*.
 ## Instructions
 
 1. [Updated Portfolio](#updated-portfolio)
+https://danield10.github.io/Portfolio/
+
 2. [GitHub Profile](#updated-github-profile)
 3. [Updated Resume](#updated-resume)
 4. [Updated LinkedIn](#updated-linkedin)
@@ -68,6 +70,7 @@ the default bootstrap theme or an unstyled HTML site.
 
 
 ### Updated GitHub Profile 
+
 
 * If you haven't yet, now is the time to update the following in your GitHub profile: 
 
